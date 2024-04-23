@@ -15,3 +15,13 @@ body{
 .tborder{
     border: 1px solid;
 }
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h1{
+    text-decoration: underline;
+    text-align: center;
+  }
+  
