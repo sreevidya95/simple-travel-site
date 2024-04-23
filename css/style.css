@@ -1,0 +1,17 @@
+p{
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav{
+    border: dashed;
+    
+}
+a{
+    margin-right: 10px;
+}
+body{
+    background-color: bisque;
+}
+.tborder{
+    border: 1px solid;
+}
